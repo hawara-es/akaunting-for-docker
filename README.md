@@ -10,7 +10,7 @@ This repository was created using the [official Akaunting images](https://github
 
 ```shell
 # Download these Composer files
-git clone https://github.com/hawara-es/akaunting-docker
+git clone https://github.com/hawara-es/akaunting-for-docker
 cd akaunting-docker
 
 # Create your environment files
