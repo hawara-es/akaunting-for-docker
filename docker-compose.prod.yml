@@ -4,4 +4,4 @@ services:
   akaunting:
     labels:
       - "traefik.http.routers.${TRAEFIK_SERVICE}.entrypoints=web,websecure"
-      - "traefik.http.routers.filmoteca.tls.certresolver=tlssolver"
+      - "traefik.http.routers.${TRAEFIK_SERVICE}.tls.certresolver=tlssolver"

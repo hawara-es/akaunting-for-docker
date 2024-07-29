@@ -1,0 +1,6 @@
+version: "3.7"
+
+services:
+  akaunting:
+    labels:
+      - "traefik.http.routers.${TRAEFIK_SERVICE}.entrypoints=web"
