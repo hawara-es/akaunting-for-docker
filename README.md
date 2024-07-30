@@ -37,4 +37,4 @@ docker compose up -d
 
 ## License
 
-Akaunting is released under the [GPLv3 license](LICENSE.txt).
+Be aware that, although Akaunting anounces itself some times as a product released under the GPLv3 license (see [akaunting/docker](https://github.com/akaunting/docker/blob/77a1312c38ac3ad51be3c5f2528ce8a40598cb0d/README.md)), the actual license that appears in their root project is much more restrictive (see [akaunting/akaunting](https://github.com/akaunting/akaunting/blob/a679ae316ec780f7358aacd0aae2b7cb4d0c89ed/LICENSE.txt)).
